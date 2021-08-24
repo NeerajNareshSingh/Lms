@@ -1,0 +1,4 @@
+{
+    "MONGOURI": "mongodb://localhost/lms",
+    "jwtPrivateKey":"lms2021"
+}
